@@ -1,0 +1,1648 @@
+{
+  "Locations": {
+    "shoreline": {
+      "Zones": {
+        "place_peacemaker_003_N3": {
+          "position": "-349.7, -39.9, 185.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_peacemaker_004_N1": {
+          "position": "-553.1, -29.4, -127.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "skier_022_area_2": {
+          "position": "98.1, -47.2, 97.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_009_3_N1": {
+          "position": "-149.9, -6.1, -77.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_peacemaker_010_3": {
+          "position": "72.9, -59.7, 348.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "huntsman_024_2": {
+          "position": "382.9, -51.9, -125.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "huntsman_026": {
+          "position": "-229.1, 3.3, -88.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q_ny_hide_christmas_tree_shorl": {
+          "position": "-251.9, -4.0, -112.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "prapor_022_area_2": {
+          "position": "96.7, -47.2, 97.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q14_10_point_area": {
+          "position": "-645.0, -20.3, -200.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "skier_022_area_1": {
+          "position": "-263.6, -4.0, -85.7",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q14_11_jeep": {
+          "position": "227.2, -54.9, -159.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_meh_sanitar_room": {
+          "position": "-322.8, -2.8, -77.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_SIGNAL_03_3": {
+          "position": "-708.7, -26.2, 90.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_003_N1": {
+          "position": "-153.1, -17.1, -280.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_SIGNAL_03_2": {
+          "position": "-230.6, 8.3, -92.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "prapor_022_area_1": {
+          "position": "-264.0, -4.0, -85.3",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_008_2_N1": {
+          "position": "-250.5, -5.1, -48.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_peacemaker_007_1_N1": {
+          "position": "287.1, -49.4, -42.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_peacemaker_005_N2": {
+          "position": "-596.3, -58.5, 475.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "prapor_27_3": {
+          "position": "-253.4, -5.7, -99.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_peacemaker_004_N2": {
+          "position": "81.4, -31.8, -166.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "huntsman_024_1": {
+          "position": "405.9, -51.9, -44.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "ter_023_area_1_1": {
+          "position": "-253.2, -4.1, -56.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q_ny_kill_christmas_guys_shorl": {
+          "position": "-251.9, -4.0, -112.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_SIGNAL_01_2": {
+          "position": "-483.3, -25.8, 253.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_peacemaker_003_N2": {
+          "position": "378.7, -54.4, 166.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "ter_013_area_4": {
+          "position": "97.7, -47.3, 70.8",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "ter_013_area_1": {
+          "position": "312.7, -59.2, 314.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_007_2_N3": {
+          "position": "-336.6, 3.5, -88.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_SIGNAL_03_1": {
+          "position": "-483.8, -24.5, 248.8",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_005_N1": {
+          "position": "-234.5, -3.5, -164.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "skier_022_area_3": {
+          "position": "-305.4, -60.9, 492.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_001": {
+          "position": "-182.0, -63.7, 459.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "ter_013_area_3": {
+          "position": "-258.1, -4.0, -85.7",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "Terminal_quest_final": {
+          "position": "-313.0, 6.9, -82.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_SIGNAL_01_1": {
+          "position": "-230.4, 8.4, -93.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_peacemaker_008_4_N2": {
+          "position": "-171.2, 0.1, -75.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "prapor_022_area_3": {
+          "position": "-306.2, -60.9, 494.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_008_2_N2": {
+          "position": "-280.6, -4.8, -41.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_peacemaker_009_2": {
+          "position": "-337.0, -2.7, -88.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "ter_013_area_2": {
+          "position": "354.9, -58.6, 306.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q14_10_kill": {
+          "position": "-591.8, -20.3, -117.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q_ny_find_christmas_tree_shorl": {
+          "position": "-251.9, -4.0, -112.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_peacemaker_008_4_N1": {
+          "position": "-336.5, 0.1, -76.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "huntsman_024_3": {
+          "position": "287.1, -49.2, -46.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "ter_023_area_3_1": {
+          "position": "-311.9, -60.9, 489.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "ter_023_area_2_1": {
+          "position": "94.2, -47.5, 62.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_peacemaker_010_2": {
+          "position": "235.6, -64.5, 442.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        }
+      }
+    },
+    "lighthouse": {
+      "Zones": {
+        "qlight_extension_mechanik1_hide1": {
+          "position": "32.5, 6.4, -640.3",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "meh_42_radio_area_mark_2": {
+          "position": "-116.5, 40.4, 88.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_extension_prapor1_utes_exploration5": {
+          "position": "-7.9, 8.6, -450.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_find_light_merchant": {
+          "position": "423.3, 22.6, 476.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_pc1_ucot_kill": {
+          "position": "-108.9, 22.2, -2.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q_ny_find_christmas_tree_light": {
+          "position": "114.3, 2.8, 268.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_flyers4": {
+          "position": "-114.6, 0.6, -549.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_find_scav_group1": {
+          "position": "-70.4, 26.8, 132.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "meh_53_wificamera_area_mark_4": {
+          "position": "-77.3, 12.0, -790.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "meh_42_radio_area_mark_3": {
+          "position": "71.1, 10.2, 392.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_place_c22_harley_2": {
+          "position": "-116.6, 18.6, -19.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "meh_42_radio_area_mark_4": {
+          "position": "127.6, 7.0, 293.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_fuel_blood_bezovoz3": {
+          "position": "29.1, 6.0, -423.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "meh_53_wificamera_area_mark_3": {
+          "position": "83.1, 6.2, -557.8",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "meh_50_visit_area_check_1": {
+          "position": "442.2, 24.1, 460.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "meh_53_wificamera_area_mark_1": {
+          "position": "-12.2, 7.3, -306.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_extension_mechanik1_exploration1": {
+          "position": "32.5, 6.4, -640.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_extension_prapor1_utes_exploration8": {
+          "position": "-130.3, 15.3, -730.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_pr1_heli1_mark": {
+          "position": "-96.5, 2.4, -552.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_extension_prapor1_exploration2": {
+          "position": "-97.7, 15.4, -753.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_extension_prapor1_utes_exploration6": {
+          "position": "29.8, 15.3, -591.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_mark_vech4": {
+          "position": "-41.5, 10.2, 16.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_place_c22_harley_1": {
+          "position": "-140.8, 40.3, 108.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_extension_prapor1_utes_exploration10": {
+          "position": "-186.7, 15.3, -643.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_extension_prapor1_utes_exploration9": {
+          "position": "37.7, 15.3, -652.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_extension_medic1_hide1": {
+          "position": "-119.2, 13.0, -841.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_extension_prapor1_exploration3": {
+          "position": "-196.6, 15.4, -666.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_extension_prapor1_ags_exploration7": {
+          "position": "-64.9, 15.1, -729.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_mark_vech1": {
+          "position": "13.1, 2.8, -503.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "meh_53_wificamera_area_mark_2": {
+          "position": "-195.3, 6.2, -431.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_hunt_fr_find": {
+          "position": "-246.6, 0.9, -328.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_pr1_heli1_find": {
+          "position": "-95.9, 2.4, -553.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_fuel_blood_bezovoz2": {
+          "position": "-158.5, 6.0, -608.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q_ny_kill_christmas_guys_light": {
+          "position": "114.8, 5.2, 267.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_mark_vech2": {
+          "position": "-65.2, 3.4, -691.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_extension_prapor1_exploration1": {
+          "position": "53.2, 15.4, -623.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_extension_prapor1_utes_exploration11": {
+          "position": "-69.0, 15.4, -752.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "meh_44_eastLight_kill": {
+          "position": "-29.6, 23.3, 112.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_mark_vech3": {
+          "position": "66.1, 2.8, 516.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_extension_medic1_exploration1": {
+          "position": "-119.2, 13.0, -841.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_extension_bariga1_exploration1": {
+          "position": "353.1, 17.0, 547.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_fuel_blood_bezovoz1": {
+          "position": "-73.7, 11.6, -875.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight16_peace_terra": {
+          "position": "136.9, 0.8, 47.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_fuel_blood": {
+          "position": "-116.6, 11.7, -921.8",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "meh_48_transponder_area_check_1": {
+          "position": "119.3, 2.2, 520.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_br_secure_road": {
+          "position": "0.0, 7.8, 47.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_extension_prapor1_ags_exploration4": {
+          "position": "43.7, 11.0, -448.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q_ny_hide_christmas_tree_light": {
+          "position": "114.6, 2.8, 268.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "meh_42_radio_area_mark_1": {
+          "position": "-94.6, 1.9, -550.7",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "qlight_pr1_heli2_kill": {
+          "position": "-51.2, 14.5, -573.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "qlight_find_crushed_heli": {
+          "position": "-126.7, 22.4, 301.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        }
+      }
+    },
+    "rezerv": {
+      "Zones": {
+        "tadeush_stryker_area_check_4": {
+          "position": "-107.2, -5.7, -67.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "baraholshik_arsenal_area_5": {
+          "position": "-125.5, -7.0, 95.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "fuel4": {
+          "position": "-334.9, -101.5, -163.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "baraholshik_arsenal_area_1": {
+          "position": "-167.4, -1.3, 31.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_tunguska_area_check_9": {
+          "position": "-264.6, -8.6, -71.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "mechanik_exit_area_1": {
+          "position": "-119.8, -29.3, 171.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_bmp2_area_mark_12": {
+          "position": "101.7, -5.6, 64.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "tadeush_stryker_area_mark_3": {
+          "position": "42.1, 0.9, -195.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "prapor_024_area_2": {
+          "position": "-115.0, -11.9, 33.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_bmp2_area_mark_13": {
+          "position": "53.6, -4.0, 122.7",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "prapor_025_area_1": {
+          "position": "-90.3, -13.4, -5.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "baraholshik_arsenal_area_4": {
+          "position": "-125.5, -1.3, 95.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "baraholshik_fuel_area_2": {
+          "position": "11.9, -9.9, 73.8",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "tadeush_bmp2_area_mark_2": {
+          "position": "-100.6, -3.7, -155.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_flaers2": {
+          "position": "111.1, -4.5, -143.3",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "tadeush_tunguska_area_check_5": {
+          "position": "211.0, -4.9, -86.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "lijnik_storage_area_1": {
+          "position": "65.4, -21.0, -104.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "baraholshik_dejurniy_area_2": {
+          "position": "-165.0, -4.2, 34.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_tunguska_area_mark_10": {
+          "position": "-249.6, -3.6, -3.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "baraholshik_arsenal_area_3": {
+          "position": "-167.4, -7.0, 31.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q_ny_hide_christmas_tree_rez": {
+          "position": "166.9, -7.0, 0.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "prapor_025_area_3": {
+          "position": "-149.4, -9.3, 50.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "prapor_hq_area_check_1": {
+          "position": "-109.7, -12.8, 37.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_keeper3_hide": {
+          "position": "-114.7, -13.6, 23.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_tunguska_area_check_8": {
+          "position": "144.2, -8.6, 34.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_tunguska_area_mark_6": {
+          "position": "228.9, -2.9, -55.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "prapor_024_area_1": {
+          "position": "-116.8, -13.2, 31.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "prapor_025_area_5": {
+          "position": "-73.0, -9.7, 30.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "prapor_025_area_2": {
+          "position": "-144.3, -10.0, 6.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q_ny_kill_christmas_guys_rez": {
+          "position": "166.9, -5.6, 0.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_tunguska_area_check_10": {
+          "position": "-247.0, -3.2, -3.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "baraholshik_fuel_area_1": {
+          "position": "-9.4, -9.5, 83.3",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "tadeush_tunguska_area_mark_5": {
+          "position": "211.1, -4.3, -86.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "baraholshik_fuel_area_4": {
+          "position": "178.7, -3.2, -123.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "tadeush_bmp2_area_check_12": {
+          "position": "103.4, -4.6, 63.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_bmp2_area_check_11": {
+          "position": "79.0, -4.6, -31.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_bmp2_area_check_2": {
+          "position": "-100.4, -4.3, -155.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_tunguska_area_mark_8": {
+          "position": "144.1, -8.7, 34.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "tadeush_tunguska_area_mark_7": {
+          "position": "183.8, -2.9, 22.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "tadeush_tunguska_area_check_7": {
+          "position": "184.6, -3.7, 21.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "eger_barracks_area_1": {
+          "position": "-102.9, -4.1, 92.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_bmp2_area_check_13": {
+          "position": "53.8, -4.1, 122.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "huntsman_029": {
+          "position": "78.8, -12.3, -117.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_stryker_area_check_3": {
+          "position": "42.0, 0.3, -195.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "baraholshik_fuel_area_3": {
+          "position": "170.0, -9.3, -97.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q_ny_find_christmas_tree_rez": {
+          "position": "166.9, -7.0, 0.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_t90_area_check_1": {
+          "position": "-160.6, -4.3, -117.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_stryker_area_mark_4": {
+          "position": "-107.1, -5.1, -67.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "tadeush_bmp2_area_mark_11": {
+          "position": "79.0, -5.4, -31.8",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "prapor_025_area_4": {
+          "position": "-107.0, -9.4, 77.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "tadeush_tunguska_area_check_6": {
+          "position": "229.0, -3.7, -55.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Event_terminal_zone": {
+          "position": "-14.1, 33.9, 176.7",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "eger_barracks_area_2": {
+          "position": "-164.1, -4.1, 54.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        }
+      }
+    },
+    "woods": {
+      "Zones": {
+        "place_THX_15": {
+          "position": "23.8, -15.4, 99.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "achiv_plane": {
+          "position": "-252.8, 14.1, -30.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_keeper5_1": {
+          "position": "290.0, 23.5, -439.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "meh_45_radio_area_mark_1": {
+          "position": "222.2, 21.4, -706.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "huntsman_001": {
+          "position": "-256.0, 9.6, 9.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_terminal_": {
+          "position": "-202.3, 30.3, -210.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q14_8_5": {
+          "position": "-447.1, 2.1, 249.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "meh_45_radio_area_mark_2": {
+          "position": "-156.1, 52.3, -273.3",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "bar_fuel3_2": {
+          "position": "-325.0, 15.3, 24.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_007_2_N2_1": {
+          "position": "-88.7, 12.6, -717.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q14_8_3": {
+          "position": "-97.3, 14.0, -542.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_keeper5_2": {
+          "position": "292.5, 23.4, -507.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_skier_11_1": {
+          "position": "31.1, -13.6, 83.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "meh_45_radio_area_mark_4": {
+          "position": "446.3, -13.1, 69.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "bar_fuel3_1": {
+          "position": "356.5, 0.4, -85.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q14_8_1": {
+          "position": "412.2, 13.7, -608.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q14_8_2": {
+          "position": "-209.2, 77.5, -279.8",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q_ny_kill_christmas_guys_wood": {
+          "position": "-21.9, -14.3, 163.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "meh_45_radio_area_mark_3": {
+          "position": "-157.6, 47.2, -233.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "bar_fuel3_3": {
+          "position": "-200.4, 31.3, -210.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_skier_12_3": {
+          "position": "-6.2, -0.5, -75.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_007_2_N2": {
+          "position": "196.0, 1.0, -7.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "pr_scout_col": {
+          "position": "195.6, 12.2, -595.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "huntsman_005_1": {
+          "position": "-386.8, 4.2, 22.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "pr_scout_base": {
+          "position": "283.1, 24.0, -439.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "prapor_27_2": {
+          "position": "-189.1, 0.3, 232.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "ter_015_area_1": {
+          "position": "-97.2, -13.2, 219.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q_ny_hide_christmas_tree_wood": {
+          "position": "-22.0, -15.7, 163.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_keeper5": {
+          "position": "-184.3, 45.7, -255.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q_ny_find_christmas_tree_wood": {
+          "position": "-21.4, -15.7, 163.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q14_8_4": {
+          "position": "247.3, -9.1, 291.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        }
+      }
+    },
+    "factory - day": {
+      "Zones": {
+        "catwalk01": {
+          "position": "6.0, 8.1, 61.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "roof02": {
+          "position": "40.2, 3.7, -7.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "unitaz": {
+          "position": "22.3, 4.8, 48.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "catwalk03": {
+          "position": "6.0, 7.8, 16.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "locked_office": {
+          "position": "30.1, 8.7, 38.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon05": {
+          "position": "-6.9, -2.1, 23.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_pacemaker_SCOUT_01": {
+          "position": "66.1, -1.7, -30.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "caseextr": {
+          "position": "41.7, 5.4, 40.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_pacemaker_SCOUT_03": {
+          "position": "59.7, 1.2, 57.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_SADOVOD_01_2": {
+          "position": "59.8, 1.1, -48.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "showers": {
+          "position": "14.9, 5.2, 40.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "achiv_office": {
+          "position": "16.5, 9.1, 39.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "exit0zone": {
+          "position": "-56.0, 1.8, 56.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "office01": {
+          "position": "17.2, 8.7, 38.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon03": {
+          "position": "65.2, -2.2, -34.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "catwalk06": {
+          "position": "51.7, 7.8, 40.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "exit1zone": {
+          "position": "-38.5, 0.7, 7.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "roof01": {
+          "position": "42.1, 8.1, 40.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon02": {
+          "position": "38.9, -2.2, -34.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "catwalk04": {
+          "position": "37.5, 7.8, 0.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "catwalk05": {
+          "position": "51.7, 7.8, 0.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon07": {
+          "position": "-31.5, -2.1, 27.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "secretpassage": {
+          "position": "66.6, -2.1, -28.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "pumproom": {
+          "position": "40.4, 0.6, -11.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon06": {
+          "position": "-17.0, -2.1, 39.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon04": {
+          "position": "21.0, -2.1, -1.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "exit3zone": {
+          "position": "58.9, 0.7, 57.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon01": {
+          "position": "17.5, -2.1, -21.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "exit2zone": {
+          "position": "44.9, 0.7, -45.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_SADOVOD_01_1": {
+          "position": "68.2, 1.1, -7.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_pacemaker_SCOUT_02": {
+          "position": "-53.1, 2.3, 58.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_pacemaker_SCOUT_04": {
+          "position": "-18.4, 1.2, -49.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "catwalk02": {
+          "position": "-22.4, 8.1, 1.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "huntsman_013": {
+          "position": "27.9, 5.1, 48.2",
+          "type": "EFT.Interactive.QuestTrigger"
+        },
+        "kill1": {
+          "position": "27.9, 5.5, 48.2",
+          "type": "EFT.Interactive.QuestTrigger"
+        }
+      }
+    },
+    "factory - night": {
+      "Zones": {
+        "ter_017_area_1": {
+          "position": "24.6, 9.2, 39.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "catwalk01": {
+          "position": "6.0, 8.1, 61.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "roof02": {
+          "position": "40.2, 3.7, -7.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "unitaz": {
+          "position": "22.3, 4.8, 48.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "catwalk03": {
+          "position": "6.0, 7.8, 16.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "locked_office": {
+          "position": "30.1, 8.7, 38.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon05": {
+          "position": "-6.9, -2.1, 23.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_pacemaker_SCOUT_01": {
+          "position": "66.1, -1.7, -30.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "caseextr": {
+          "position": "41.7, 5.4, 40.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_pacemaker_SCOUT_03": {
+          "position": "59.7, 1.2, 57.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_SADOVOD_01_2": {
+          "position": "59.8, 1.1, -48.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "showers": {
+          "position": "14.9, 5.2, 40.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "achiv_office": {
+          "position": "16.5, 9.1, 39.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "exit0zone": {
+          "position": "-56.0, 1.8, 56.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "office01": {
+          "position": "17.2, 8.7, 38.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon03": {
+          "position": "65.2, -2.2, -34.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "catwalk06": {
+          "position": "51.7, 7.8, 40.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "exit1zone": {
+          "position": "-38.5, 0.7, 7.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "roof01": {
+          "position": "42.1, 8.1, 40.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon02": {
+          "position": "38.9, -2.2, -34.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "catwalk04": {
+          "position": "37.5, 7.8, 0.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "catwalk05": {
+          "position": "51.7, 7.8, 0.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon07": {
+          "position": "-31.5, -2.1, 27.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "secretpassage": {
+          "position": "66.6, -2.1, -28.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "pumproom": {
+          "position": "40.4, 0.6, -11.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon06": {
+          "position": "-17.0, -2.1, 39.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon04": {
+          "position": "21.0, -2.1, -1.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "exit3zone": {
+          "position": "58.9, 0.7, 57.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "dungeon01": {
+          "position": "17.5, -2.1, -21.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "exit2zone": {
+          "position": "44.9, 0.7, -45.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_SADOVOD_01_1": {
+          "position": "68.2, 1.1, -7.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_pacemaker_SCOUT_02": {
+          "position": "-53.1, 2.3, 58.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_pacemaker_SCOUT_04": {
+          "position": "-18.4, 1.2, -49.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "catwalk02": {
+          "position": "-22.4, 8.1, 1.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "huntsman_013": {
+          "position": "27.9, 5.1, 48.2",
+          "type": "EFT.Interactive.QuestTrigger"
+        },
+        "kill1": {
+          "position": "27.9, 5.5, 48.2",
+          "type": "EFT.Interactive.QuestTrigger"
+        }
+      }
+    },
+    "customs": {
+      "Zones": {
+        "gazel": {
+          "position": "480.8, 3.3, -76.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_terminal_find_zone": {
+          "position": "500.4, 15.8, 107.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "arena_champ_room": {
+          "position": "179.9, 4.0, 164.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "fuel4": {
+          "position": "-334.9, 2.2, -163.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_002_N1": {
+          "position": "505.0, 1.2, -11.3",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_skier_12_2": {
+          "position": "170.8, 6.9, 172.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_flyers1": {
+          "position": "206.9, 2.0, -124.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "mech_41_1": {
+          "position": "170.5, 2.3, -107.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "room214": {
+          "position": "176.4, 3.3, 184.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "arena_champ_corpse": {
+          "position": "182.8, 3.4, 163.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "vremyan_case": {
+          "position": "368.9, 1.6, -49.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "mech_41_2": {
+          "position": "425.0, 2.3, 28.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "extraction_zone_zibbo": {
+          "position": "-193.0, 1.9, -206.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "fuel1": {
+          "position": "429.9, 2.7, 16.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "dead_posylni": {
+          "position": "27.5, 1.5, -110.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q_ny_kill_christmas_guys_cust": {
+          "position": "202.9, 1.2, 148.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "fuel2": {
+          "position": "101.4, 3.1, -14.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_002_N2": {
+          "position": "565.8, 0.0, -24.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "Q019_3": {
+          "position": "181.0, 6.3, 162.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "room114": {
+          "position": "235.5, 0.4, 160.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "prapor_27_1": {
+          "position": "202.7, 7.9, -126.8",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_terminal_final_zone": {
+          "position": "198.0, 8.4, 171.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_terminal_bitcoin": {
+          "position": "500.6, 17.9, 91.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q_ny_hide_christmas_tree_cust": {
+          "position": "199.0, -0.8, 150.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "vaz_feld": {
+          "position": "579.2, 0.1, -1.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "bomj_place": {
+          "position": "487.9, 6.1, -139.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "huntsman_020": {
+          "position": "201.2, 5.3, 154.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_007_N1": {
+          "position": "184.1, 7.2, 183.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q_ny_find_christmas_tree_cust": {
+          "position": "199.0, -0.8, 150.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "fuel3": {
+          "position": "335.0, 3.0, -190.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_SADOVOD_03": {
+          "position": "-212.6, 1.2, -109.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_peacemaker_002_N3": {
+          "position": "17.9, 0.3, 0.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "room206_water": {
+          "position": "232.2, 3.4, 138.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_skier_11_2": {
+          "position": "24.4, 0.2, 102.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        }
+      }
+    },
+    "interchange ": {
+      "Zones": {
+        "place_SALE_03_KOSTIN": {
+          "position": "-24.7, 28.6, -103.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_WARBLOOD_04_2": {
+          "position": "274.3, 22.9, 14.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_merch_022_5": {
+          "position": "109.2, 33.1, -54.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_merch_022_6": {
+          "position": "-189.3, 33.1, -54.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_SALE_03_DINO": {
+          "position": "94.4, 28.2, -120.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_WARBLOOD_04_1": {
+          "position": "-208.4, 22.8, -74.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_merch_022_3": {
+          "position": "-40.7, 33.1, -54.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_skier_11_3": {
+          "position": "8.1, 27.6, -36.7",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_merch_022_1": {
+          "position": "-19.4, 33.1, -239.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_merch_21_1": {
+          "position": "109.9, 22.3, 288.8",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q_ny_kill_christmas_guys_int": {
+          "position": "255.2, 21.4, -59.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_merch_022_4": {
+          "position": "103.5, 33.1, -54.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_merch_21_2": {
+          "position": "17.6, 22.8, -25.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_SALE_03_TOPBRAND": {
+          "position": "94.2, 28.2, 10.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_merch_022_2": {
+          "position": "-19.4, 33.1, 129.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_SALE_03_AVOKADO": {
+          "position": "-33.2, 28.6, 25.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "q_ny_hide_christmas_tree_int": {
+          "position": "255.9, 21.4, -59.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_keeper6_safe_hide": {
+          "position": "-49.3, 21.8, 45.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_merch_020_1": {
+          "position": "-50.4, 27.7, 25.1",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_merch_020_2": {
+          "position": "179.9, 22.3, -40.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_keeper6_kiba_kill": {
+          "position": "-9.4, 28.2, -33.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_SALE_03_TREND": {
+          "position": "64.2, 28.1, -155.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_WARBLOOD_04_3": {
+          "position": "-172.6, 22.8, -359.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "q_ny_find_christmas_tree_int": {
+          "position": "255.9, 21.4, -59.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "place_skier_12_1": {
+          "position": "-27.2, 28.1, 2.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_merch_21_3": {
+          "position": "-49.8, 22.9, 59.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "place_merch_022_7": {
+          "position": "92.3, 33.1, -265.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_keeper6_kiba_hide": {
+          "position": "-19.5, 27.6, -22.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        }
+      }
+    },
+    "streets": {
+      "Zones": {
+        "Bank_points_15": {
+          "position": "8.3, -2.8, 5.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_c11_gmed": {
+          "position": "93.0, 3.6, 320.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_flyer3": {
+          "position": "-169.8, 15.4, 392.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_find_2st_mech": {
+          "position": "188.4, 0.8, 226.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Pharma_1": {
+          "position": "39.1, 3.7, 162.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_2": {
+          "position": "83.0, 1.2, -30.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_kill_cinema": {
+          "position": "-180.4, 16.5, 400.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_14": {
+          "position": "0.4, -2.7, -18.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_4": {
+          "position": "-58.1, 3.7, 453.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_c5_mar": {
+          "position": "47.6, 12.7, 153.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_12": {
+          "position": "-166.5, 1.6, -3.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_c8_dom2": {
+          "position": "107.9, 7.6, 232.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Office_quest": {
+          "position": "164.2, 1.7, 167.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_7": {
+          "position": "-80.4, 1.6, -64.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_produkt3": {
+          "position": "-77.2, 2.3, 158.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_kill_stilo": {
+          "position": "-102.9, 8.6, -25.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_keeper8_2": {
+          "position": "37.9, 12.7, 155.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_place_c22_harley_3": {
+          "position": "99.5, 3.2, 356.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_c7_mel": {
+          "position": "43.0, 11.8, 151.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_kill_c17_adm": {
+          "position": "-69.2, 12.9, 115.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_place_c24_tigr2": {
+          "position": "172.5, 4.8, 416.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_keeper8_1_hide3": {
+          "position": "36.7, 10.6, 85.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_keeper00": {
+          "position": "-34.3, 4.3, 239.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Hookah_quest": {
+          "position": "-211.8, 4.2, 297.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_keeper10_place": {
+          "position": "10.5, 4.8, 217.6",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "Bank_points_13": {
+          "position": "-53.6, 1.6, -69.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_10": {
+          "position": "-35.2, 1.6, -70.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_find_2st_med_invent1": {
+          "position": "224.9, 4.8, 172.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_c27_sect": {
+          "position": "-130.8, 9.5, 269.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_c21_look": {
+          "position": "-67.8, 5.9, 65.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_place_c14_revx_1": {
+          "position": "-139.4, 3.6, 438.8",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_city_trotil2": {
+          "position": "67.7, 3.0, 306.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_produkt2": {
+          "position": "153.7, 4.7, 299.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_hide_2st_mech": {
+          "position": "188.6, 0.4, 226.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_find_2st_kpss2": {
+          "position": "246.3, -0.3, 52.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_8": {
+          "position": "-160.2, 1.6, -47.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_find_2st_med_invent2": {
+          "position": "183.0, 2.7, 102.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_hide_barber2": {
+          "position": "214.3, 4.3, 409.3",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_c8_dom2_dead": {
+          "position": "106.8, 4.7, 222.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_9": {
+          "position": "-148.6, 6.1, -62.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_c6_kpss": {
+          "position": "131.4, 7.6, 232.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_hide_barber1": {
+          "position": "206.6, 4.3, 411.8",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_c16_koll_2": {
+          "position": "62.2, 7.1, 272.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_place_c14_revx_3": {
+          "position": "2.2, 0.9, 34.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "Bank_points_6": {
+          "position": "279.0, 4.3, 369.7",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_produkt1": {
+          "position": "-204.3, 4.3, 181.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_11": {
+          "position": "-113.9, 1.6, -12.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_c8_dom1": {
+          "position": "127.1, 10.6, 232.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_5": {
+          "position": "54.5, 3.8, 234.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_kill_kardinal": {
+          "position": "134.0, 23.0, -101.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_3": {
+          "position": "-50.9, 3.7, 453.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_c16_koll_1": {
+          "position": "15.7, 3.4, 226.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Office_enter": {
+          "position": "164.4, 1.7, 148.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Pharma_3": {
+          "position": "89.3, 5.1, -275.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_keeper8_1": {
+          "position": "214.8, 10.3, 398.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_place_c14_revx_2": {
+          "position": "146.3, 4.7, 408.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_c29_debt": {
+          "position": "-80.3, 6.0, 50.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_keeper8_1_hide2": {
+          "position": "38.0, 12.2, 156.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_keeper8_1_hide1": {
+          "position": "215.8, 9.8, 395.9",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_c25_cinem2": {
+          "position": "-204.7, 3.3, 243.0",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_c25_cinem": {
+          "position": "157.4, 5.1, 314.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_keeper99": {
+          "position": "-130.4, 3.2, 396.5",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_find_sillent": {
+          "position": "184.4, 6.8, 55.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "fond_quest": {
+          "position": "-58.3, 3.6, 457.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_kill_shool": {
+          "position": "208.0, 10.7, 135.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Pharma_2": {
+          "position": "-44.6, 4.2, 336.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_hide_sillent2": {
+          "position": "176.3, 6.3, 82.2",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "Bank_points_16": {
+          "position": "237.0, -1.1, -93.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Bank_points_1": {
+          "position": "97.4, 1.2, -22.2",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_city_trotil1": {
+          "position": "-259.9, 3.0, 137.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_produkt4": {
+          "position": "275.6, 4.3, 380.8",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_zone_place_c24_tigr1": {
+          "position": "-69.4, 3.5, 358.5",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_zone_hide_sillent": {
+          "position": "183.9, 6.1, 53.3",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        }
+      }
+    },
+    "ground zero": {
+      "Zones": {
+        "Sandbox_2_AGS_exploration": {
+          "position": "101.0, 34.2, 276.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Sandbox_2_Kord_exploration": {
+          "position": "56.6, 32.3, 130.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_terminal_camera_3": {
+          "position": "-16.4, 31.0, 72.0",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_terminal_camera_1": {
+          "position": "-35.0, 26.2, -17.4",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "Sandbox_3_Vino_exploration": {
+          "position": "117.1, 24.2, 26.9",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Sandbox_5_Office_exploration": {
+          "position": "-13.5, 31.0, 51.3",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Sandbox_5_DeadGroup_exploration": {
+          "position": "-21.0, 24.2, -25.1",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Sandbox_5_Laborant_exploration": {
+          "position": "-60.5, 25.6, 27.4",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "Sandbox_1_MedicalArea_exploration": {
+          "position": "156.2, 25.5, -83.6",
+          "type": "EFT.Interactive.ExperienceTrigger"
+        },
+        "quest_terminal_camera_4": {
+          "position": "-4.8, 30.9, 57.7",
+          "type": "EFT.Interactive.PlaceItemTrigger"
+        },
+        "quest_terminal_kill_zone": {
+          "position": "-13.5, 31.0, 28.3",
+          "type": "EFT.Interactive.QuestTrigger"
+        }
+      }
+    }
+  }
+}
