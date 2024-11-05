@@ -53,7 +53,7 @@ class Program
             Locations = new Dictionary<string, Location>()
         };
 
-        using (var fs = File.OpenRead("./zonesdump"))
+        using (var fs = File.OpenRead("./Player.log"))
         {
             using (var sr = new StreamReader(fs))
             {
@@ -72,9 +72,9 @@ class Program
 
     static void ParseLine(string line, ref Result result, ref Location location)
     {
-        if (line.StartsWith("///"))
+        if (line.StartsWith("[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/maxCap/"))
         {
-            // handle location start
+            // handle location entry
 
             var locationName = GetLocationName(line);
 
@@ -83,12 +83,13 @@ class Program
                 Zones = new Dictionary<string, Zone>()
             };
 
+            // add result
             result.Locations.Add(locationName, location);
         }
 
-        if (line.StartsWith("[Info   :Quests Extended]"))
+        if (line.StartsWith("[Info   :Quests Extended] ZoneId: "))
         {
-            // handle zone
+            // handle zone entry
 
             var zoneName = GetZoneName(line);
             var zone = new Zone(line);
@@ -104,8 +105,9 @@ class Program
     static string GetLocationName(string line)
     {
         return line
-            .Replace("///", string.Empty)
-            .Trim();
+            .Replace("[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/maxCap/", string.Empty)
+            .Trim()
+            .ToLowerInvariant();
     }
 
     static string GetZoneName(string line)
