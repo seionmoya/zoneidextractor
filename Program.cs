@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.IO;
+using System.Text;
 using System.Threading.Tasks;
-using Newtonsoft.Json;
 
 class Result
 {
@@ -15,19 +15,18 @@ class Location
     public Dictionary<string, Zone> Zones;
 }
 
-// members is lowercase for parsing
 class Zone
 {
-    public string position;
-    public string type;
+    public string Position;
+    public string Type;
 
     public Zone(string line)
     {
-        position = GetPosition(line);
-        type = GetType(line);
+        Position = GetPosition(line);
+        Type = GetType(line);
     }
 
-    private string GetPosition(string line)
+    static string GetPosition(string line)
     {
         var start = line.IndexOf('(') + 1;
         var end = line.IndexOf(')');
@@ -35,7 +34,7 @@ class Zone
         return line.Substring(start, end - start);
     }
 
-    private string GetType(string line)
+    static string GetType(string line)
     {
         var text = "Type: ";
         var start = line.IndexOf(text) + text.Length;
@@ -54,12 +53,10 @@ class Program
             Locations = new Dictionary<string, Location>()
         };
 
-        // read file
         using (var fs = File.OpenRead("./zonesdump"))
         {
             using (var sr = new StreamReader(fs))
             {
-                // read lines
                 while (!sr.EndOfStream)
                 {
                     var line = await sr.ReadLineAsync();
@@ -68,18 +65,18 @@ class Program
             }
         }
 
-        // save to file
-        var json = JsonConvert.SerializeObject(result, Formatting.Indented);
+        var json = FormatResult(result);
 
-        File.WriteAllText("./questpoints.jsonc", json);
+        await File.WriteAllTextAsync("./questpoints.jsonc", json);
     }
 
-    private static void ParseLine(string line, ref Result result, ref Location location)
+    static void ParseLine(string line, ref Result result, ref Location location)
     {
         if (line.StartsWith("///"))
         {
-            // location identifier
-            var locationName = line.Replace("///", string.Empty);
+            // handle location start
+
+            var locationName = GetLocationName(line);
 
             location = new Location()
             {
@@ -91,7 +88,8 @@ class Program
 
         if (line.StartsWith("[Info   :Quests Extended]"))
         {
-            // zone block
+            // handle zone
+
             var zoneName = GetZoneName(line);
             var zone = new Zone(line);
 
@@ -103,10 +101,42 @@ class Program
         }
     }
 
-    private static string GetZoneName(string line)
+    static string GetLocationName(string line)
+    {
+        return line
+            .Replace("///", string.Empty)
+            .Trim();
+    }
+
+    static string GetZoneName(string line)
     {
         return line
             .Replace("[Info   :Quests Extended] ZoneId: ", string.Empty)
             .Split(" ")[0];
+    }
+
+    static string FormatResult(Result result)
+    {
+        var sb = new StringBuilder();
+
+        sb.AppendLine("{");
+
+        foreach (var locationKvp in result.Locations)
+        {
+            sb.AppendLine($"    \"{locationKvp.Key}\":");
+            sb.AppendLine("    {");
+
+            foreach (var zoneKvp in locationKvp.Value.Zones)
+            {
+                var zone = zoneKvp.Value;
+                sb.AppendLine($"        \"{zoneKvp.Key}\": {{ \"position\": \"{zone.Position}\", \"type\": \"{zone.Type}\" }},");
+            }
+
+            sb.AppendLine("    },");
+        }
+
+        sb.Append("}");
+
+        return sb.ToString();
     }
 }
