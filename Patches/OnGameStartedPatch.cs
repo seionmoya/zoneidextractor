@@ -31,8 +31,7 @@ namespace ZoneExtractor.Patches
                 var zone = new Zone()
                 {
                     Type = zoneInstance.GetType().ToString(),
-                    Position = zoneInstance.transform.position.ToString(),
-                    Scale = zoneInstance.transform.localScale.ToString()
+                    Position = zoneInstance.transform.position.ToString()
                 };
 
                 ZoneParser.AddZone(locationId, zoneInstance.Id, zone);

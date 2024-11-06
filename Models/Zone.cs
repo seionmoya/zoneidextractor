@@ -4,6 +4,5 @@ namespace ZoneExtractor.Models
     {
         public string Type;
         public string Position;
-        public string Scale;
     }
 }

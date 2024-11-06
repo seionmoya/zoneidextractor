@@ -60,7 +60,7 @@ namespace ZoneExtractor.Utils
                 foreach (var zoneKvp in locationKvp.Value.Zones)
                 {
                     var zone = zoneKvp.Value;
-                    sb.AppendLine($"        \"{zoneKvp.Key}\": {{ \"type\": \"{zone.Type}\", \"position\": \"{zone.Position}\", \"scale\": \"{zone.Scale}\"  }},");
+                    sb.AppendLine($"        \"{zoneKvp.Key}\": {{ \"type\": \"{zone.Type}\", \"position\": \"{zone.Position}\" }},");
                 }
 
                 sb.AppendLine("    },");
