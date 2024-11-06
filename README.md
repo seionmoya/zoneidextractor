@@ -1,4 +1,4 @@
-# zoneidextractor
+# Zone Extractor
 
 Extract quest zones info while running SPT.
 
