@@ -1,21 +1,24 @@
 # zoneidextractor
 
-Extract zones from dumps from player log
+Extract quest zones info while running SPT.
 
 ## Requirements
 
 - .NET 8.0
-- `QuestExtender` inside SPT's bepinex
 
 ## Build
 
-- Debug: `dotnet build`
-- Release: `dotnet publish`
+`dotnet build`
 
 ## Usage
 
-`Player.log` can be found in `C:\Users\User\AppData\LocalLow\Battlestate Games\EscapeFromTarkov\`.
+1. Put `ZoneExtractor.dll` into `BepInEx/Plugins/`
+2. Start the game
+3. Do a raid on each location, wait for 1 minute after loading in before exiting the raid
+4. Close the game
+5. A file named `questpoints.jsonc` is produced in the game's root directory
 
-1. Put `Player.log` next to `zoneidextractor.exe`
-2. Run `zoneidextractor`
-3. A file named `questpoints.jsonc` is produced
+## License
+
+- The source in this repo is covered under MIT
+- `spt-reflection.dll` and `hollowed.dll` are covered under NCSA

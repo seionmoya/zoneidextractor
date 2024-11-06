@@ -1,3 +1,9 @@
+# msbuild
 obj/
 bin/
+
+# nuget
+.nuget/
+
+# zoneidextractor
 questpoints.jsonc
