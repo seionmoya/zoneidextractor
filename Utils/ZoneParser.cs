@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 using ZoneExtractor.Models;
 
@@ -68,6 +69,12 @@ namespace ZoneExtractor.Utils
             sb.Append("}");
 
             return sb.ToString();
+        }
+
+        public static void WriteJson()
+        {
+            var json = GetJson();
+            File.WriteAllText("questpoints.jsonc", json);
         }
     }
 }

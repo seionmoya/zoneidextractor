@@ -1,7 +1,5 @@
-﻿using System.IO;
-using BepInEx;
+﻿using BepInEx;
 using ZoneExtractor.Patches;
-using ZoneExtractor.Utils;
 
 namespace ZoneExtractor
 {
@@ -11,12 +9,6 @@ namespace ZoneExtractor
         private void Awake()
         {
             new OnGameStartedPatch().Enable();
-        }
-
-        private void OnApplicationQuit()
-        {
-            var json = ZoneParser.GetJson();
-            File.WriteAllText("questpoints.jsonc", json);
         }
     }
 }

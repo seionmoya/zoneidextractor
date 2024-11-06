@@ -37,6 +37,9 @@ namespace ZoneExtractor.Patches
 
                 ZoneParser.AddZone(locationId, zoneInstance.Id, zone);
             }
+
+            // re-write file
+            ZoneParser.WriteJson();
         }
     }
 }
